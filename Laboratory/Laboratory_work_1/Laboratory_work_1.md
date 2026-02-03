@@ -67,7 +67,7 @@ _Таблиця 1_
 
 <blockquote>  
 1.1. [Linux - Кращі дистрибутиви 2023](https://youtu.be/PahmJBU9HKA?si=maxRf0nZlqs2hFGU)   
-1.2. [ТОП 5 ПРИЧИН ЧОМУ АЙТІШНИКУ ВАРТО ПЕРЕЙТИ НА ЛІНУКС](https://youtu.be/bP3_mZKezvM?si=sM3Mpc9JQ_0bY9Yd)   
+<span>1.2. [ТОП 5 ПРИЧИН ЧОМУ АЙТІШНИКУ ВАРТО ПЕРЕЙТИ НА ЛІНУКС](https://youtu.be/bP3_mZKezvM?si=sM3Mpc9JQ_0bY9Yd)</span>
 1.3. [Як встановити Linux разом з Windows спосіб #1 Microsoft Store](https://youtu.be/eEdGl6HvSdM?si=WDbwa71i034D2rQj)   
 1.4. [Як встановити Linux разом з Windows спосіб #2 Dual Boot](https://youtu.be/Hfky8TEyXss?si=ilduY167LS-vKl9y)   
 1.5. [Як встановлювати програми на Linux. Linux українською #1](https://youtu.be/M8XHJME6cxI?si=L0Koom59jTRnPXnU)    
