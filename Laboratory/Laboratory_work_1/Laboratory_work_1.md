@@ -171,12 +171,11 @@ _Це можна реалізувати через налаштування си
 
 _**GUI (графічний інтерфейс)** дозволяє взаємодіяти з системою через вікна та іконки за допомогою миші, що зручно для звичайних користувачів. **CLI (інтерфейс командного рядка)** — це текстовий метод керування через клавіатуру, який надає адміністратору набагато більше швидкості, точності та можливостей для автоматизації завдань._
 
-## Висновки
+## Conclusions
 
-&nbsp;&nbsp;&nbsp;Під час виконання лабораторної роботи я ознайомився з концепцією віртуалізації та принципами роботи гіпервізорів. Зокрема, було досліджено відмінності між гіпервізорами типу 1 (Bare Metal) та типу 2 (Hosted). На прикладі VirtualBox я вивчив процес розгортання віртуальних машин, що дозволяє запускати кілька ізольованих операційних систем на одному фізичному комп'ютері для тестування та розробки ПЗ.  
-&nbsp;&nbsp;&nbsp;Також я заглибився у вивчення особливостей ОС Linux, її дистрибутивів та графічних оболонок. Для мого варіанту було детально розглянуто характеристики середовищ Xfce та Fvwm, які демонструють гнучкість Linux у питаннях споживання ресурсів та налаштування інтерфейсу. Окрему увагу було приділено філософії вільного програмного забезпечення (GNU GPL) та перевагам відкритого вихідного коду.  
-&nbsp;&nbsp;&nbsp;Отримані знання дозволяють краще розуміти архітектуру сучасних операційних систем, принципи системного адміністрування та ефективно використовувати інструменти віртуалізації у подальшій навчальній і професійній діяльності.
-
+&nbsp;&nbsp;&nbsp;During this laboratory work, I familiarized myself with the concept of virtualization and the principles of hypervisor operation. Specifically, I explored the differences between Type 1 (Bare Metal) and Type 2 (Hosted) hypervisors. Using VirtualBox as an example, I studied the process of deploying virtual machines, which allows running multiple isolated operating systems on a single physical computer for software testing and development. 
+&nbsp;&nbsp;&nbsp;I also delved into studying the features of the Linux OS, its distributions, and desktop environments. For my specific assignment, I examined the characteristics of the Xfce and Fvwm environments, which demonstrate the flexibility of Linux regarding resource consumption and interface customization. Particular attention was paid to the philosophy of Free Software (GNU GPL) and the advantages of open-source code.
+&nbsp;&nbsp;&nbsp;The knowledge gained allows for a better understanding of modern operating system architecture and system administration principles. These skills will enable the effective use of virtualization tools in future academic and professional activities.
 
 
     
