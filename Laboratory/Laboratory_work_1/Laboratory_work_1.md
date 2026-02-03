@@ -108,8 +108,8 @@ _Процес розгортання складається з таких осн
 **2.4. Яким чином можна до установити графічні оболонки Gnome та KDE в Linux, якщо вона вже встановлена в текстовому режимі (вкажіть необхідні команди та пакети)?<br>**   
 
 Для встановлення графічних оболонок необхідно оновити список пакетів та скористатися пакетним менеджером (наприклад, apt для Debian/Ubuntu). 
-- Для GNOME: sudo apt update && sudo apt install ubuntu-desktop (або gnome-shell).
-- Для KDE: sudo apt update && sudo apt install kde-full (або kubuntu-desktop).
+- Для GNOME: _sudo apt update && sudo apt install ubuntu-desktop_ (або gnome-shell).
+- Для KDE: _sudo apt update && sudo apt install kde-full_ (або kubuntu-desktop).
 Після встановлення потрібно перезавантажити систему або запустити менеджер входу (gdm або sddm) командою sudo systemctl start [назва_сервісу].<br>
 
 **2.5. Дайте коротку характеристику графічних інтерфейсів, що використовуються в різних дистрибутивах Linux  відповідно до свого варіанту (порядковий номер по журналу), табл.2.<br>**  
