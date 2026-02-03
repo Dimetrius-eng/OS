@@ -173,8 +173,8 @@ _**GUI (графічний інтерфейс)** дозволяє взаємод
 
 ## Conclusions
 
-&nbsp;&nbsp;&nbsp;During this laboratory work, I familiarized myself with the concept of virtualization and the principles of hypervisor operation. Specifically, I explored the differences between Type 1 (Bare Metal) and Type 2 (Hosted) hypervisors. Using VirtualBox as an example, I studied the process of deploying virtual machines, which allows running multiple isolated operating systems on a single physical computer for software testing and development. 
-&nbsp;&nbsp;&nbsp;I also delved into studying the features of the Linux OS, its distributions, and desktop environments. For my specific assignment, I examined the characteristics of the Xfce and Fvwm environments, which demonstrate the flexibility of Linux regarding resource consumption and interface customization. Particular attention was paid to the philosophy of Free Software (GNU GPL) and the advantages of open-source code.
+&nbsp;&nbsp;&nbsp;During this laboratory work, I familiarized myself with the concept of virtualization and the principles of hypervisor operation. Specifically, I explored the differences between Type 1 (Bare Metal) and Type 2 (Hosted) hypervisors. Using VirtualBox as an example, I studied the process of deploying virtual machines, which allows running multiple isolated operating systems on a single physical computer for software testing and development.   
+&nbsp;&nbsp;&nbsp;I also delved into studying the features of the Linux OS, its distributions, and desktop environments. For my specific assignment, I examined the characteristics of the Xfce and Fvwm environments, which demonstrate the flexibility of Linux regarding resource consumption and interface customization. Particular attention was paid to the philosophy of Free Software (GNU GPL) and the advantages of open-source code.   
 &nbsp;&nbsp;&nbsp;The knowledge gained allows for a better understanding of modern operating system architecture and system administration principles. These skills will enable the effective use of virtualization tools in future academic and professional activities.
 
 
