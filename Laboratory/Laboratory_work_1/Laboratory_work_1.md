@@ -66,6 +66,7 @@ _Таблиця 1_
 <span>1. Подивіться ознайомчі відео та демонстраційні матеріали з наступних напрямків:  
 
 <blockquote>
+  
 1.1. [Linux - Кращі дистрибутиви 2023](https://youtu.be/PahmJBU9HKA?si=maxRf0nZlqs2hFGU)<br>
 1.2. [ТОП 5 ПРИЧИН ЧОМУ АЙТІШНИКУ ВАРТО ПЕРЕЙТИ НА ЛІНУКС](https://youtu.be/bP3_mZKezvM?si=sM3Mpc9JQ_0bY9Yd)<br>
 1.3. [Як встановити Linux разом з Windows спосіб #1 Microsoft Store](https://youtu.be/eEdGl6HvSdM?si=WDbwa71i034D2rQj)<br>
@@ -75,6 +76,7 @@ _Таблиця 1_
 1.7. [Як встановити Ubuntu на VirtualBox](https://youtu.be/ADOaHm1VZII?si=hG5kDRsajFn7se8d)<br>
 1.8. [The Shell (Linux)](https://drive.google.com/open?id=0B0PV0_SM0LoDSVNPWUVRdUxaN2s)<br>
 1.9. [Linux Desktop Environments: XFCE vs GNOME vs KDE](https://youtu.be/2JBGQfPR5xQ?si=euswD7IHrODd-6JH)
+
 </blockquote>   
   
 2. Дайте відповіді на наступні питання.
