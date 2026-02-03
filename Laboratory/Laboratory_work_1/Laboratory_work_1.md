@@ -66,23 +66,23 @@ _Таблиця 1_
 <span>1. Подивіться ознайомчі відео та демонстраційні матеріали з наступних напрямків:  
 
 <blockquote>  
-1.1. [Linux - Кращі дистрибутиви 2023](https://youtu.be/PahmJBU9HKA?si=maxRf0nZlqs2hFGU)   
-<span>1.2. [ТОП 5 ПРИЧИН ЧОМУ АЙТІШНИКУ ВАРТО ПЕРЕЙТИ НА ЛІНУКС](https://youtu.be/bP3_mZKezvM?si=sM3Mpc9JQ_0bY9Yd)</span>
-1.3. [Як встановити Linux разом з Windows спосіб #1 Microsoft Store](https://youtu.be/eEdGl6HvSdM?si=WDbwa71i034D2rQj)   
-1.4. [Як встановити Linux разом з Windows спосіб #2 Dual Boot](https://youtu.be/Hfky8TEyXss?si=ilduY167LS-vKl9y)   
-1.5. [Як встановлювати програми на Linux. Linux українською #1](https://youtu.be/M8XHJME6cxI?si=L0Koom59jTRnPXnU)    
-1.6. [Як зробити панель завдань Linux як у Windows. Linux українською #2](https://youtu.be/9szAz-A4gaM?si=LxaVueluI3tKRb1r)   
-1.7. [Як встановити Ubuntu на VirtualBox](https://youtu.be/ADOaHm1VZII?si=hG5kDRsajFn7se8d)   
-1.8. [The Shell (Linux)](https://drive.google.com/open?id=0B0PV0_SM0LoDSVNPWUVRdUxaN2s)    
+1.1. [Linux - Кращі дистрибутиви 2023](https://youtu.be/PahmJBU9HKA?si=maxRf0nZlqs2hFGU)<br>
+1.2. [ТОП 5 ПРИЧИН ЧОМУ АЙТІШНИКУ ВАРТО ПЕРЕЙТИ НА ЛІНУКС](https://youtu.be/bP3_mZKezvM?si=sM3Mpc9JQ_0bY9Yd)<br>
+1.3. [Як встановити Linux разом з Windows спосіб #1 Microsoft Store](https://youtu.be/eEdGl6HvSdM?si=WDbwa71i034D2rQj)<br>  
+1.4. [Як встановити Linux разом з Windows спосіб #2 Dual Boot](https://youtu.be/Hfky8TEyXss?si=ilduY167LS-vKl9y)<br>   
+1.5. [Як встановлювати програми на Linux. Linux українською #1](https://youtu.be/M8XHJME6cxI?si=L0Koom59jTRnPXnU)<br>    
+1.6. [Як зробити панель завдань Linux як у Windows. Linux українською #2](https://youtu.be/9szAz-A4gaM?si=LxaVueluI3tKRb1r)<br>   
+1.7. [Як встановити Ubuntu на VirtualBox](https://youtu.be/ADOaHm1VZII?si=hG5kDRsajFn7se8d)<br>   
+1.8. [The Shell (Linux)](https://drive.google.com/open?id=0B0PV0_SM0LoDSVNPWUVRdUxaN2s)<br>    
 1.9. [Linux Desktop Environments: XFCE vs GNOME vs KDE](https://youtu.be/2JBGQfPR5xQ?si=euswD7IHrODd-6JH)</blockquote>   
   
 2. Дайте відповіді на наступні питання.
   
 <blockquote>
-2.1. Перерахуйте етапи для розгортання операційної системи на базі віртуальної машини VirtualBox.  
-2.2. Чи є якісь апаратні обмеження при встановленні 32- та 64-бітних ОС?  
-2.3. Які основні етапи при встановленні OS Linux в текстовому режимі?  
-2.4. *Яким чином можна до установити графічні оболонки Gnome та KDE в Linux, якщо вона вже встановлена в текстовому режимі (вкажіть необхідні команди та пакети)?   
+2.1. Перерахуйте етапи для розгортання операційної системи на базі віртуальної машини VirtualBox.<br>  
+2.2. Чи є якісь апаратні обмеження при встановленні 32- та 64-бітних ОС?<br>  
+2.3. Які основні етапи при встановленні OS Linux в текстовому режимі?<br>  
+2.4. *Яким чином можна до установити графічні оболонки Gnome та KDE в Linux, якщо вона вже встановлена в текстовому режимі (вкажіть необхідні команди та пакети)?<br>   
 2.5. **Дайте коротку характеристику графічних інтерфейсів, що використовуються в різних дистрибутивах Linux  відповідно до свого варіанту (порядковий номер по журналу), табл.2.  
 
 _Таблиця 2_  
