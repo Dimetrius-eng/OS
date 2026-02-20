@@ -233,17 +233,18 @@ _Словник базових англійських термінів_
 
 &nbsp;&nbsp;&nbsp;- За допомогою команди echo виведіть імена студентів вашої команди.  
 
-<img src="2.png" width="400">
+<img src="2.png" width="730">
 
 &nbsp;&nbsp;- Створіть псевдоніми mycal1, mycal2, mycal3 для команди cal для автоматичного виведення календарю вашого року народження. 
 
-<img src="3.png" width="400">  
-<img src="4.png" width="400">  
-<img src="5.png" width="400">  
-<img src="6.png" width="400">  
-<img src="7.png" width="400">  
-<img src="8.png" width="400">  
-<img src="9.png" width="400">
+<img src="3.png" width="730">  
+<img src="4.png" width="730">  
+<img src="5.png" width="730">  
+<img src="6.png" width="730">  
+<img src="7.png" width="730">  
+<img src="8.png" width="730">  
+<img src="9.png" width="730">  
+<img src="10.png" width="730">
 
 **2.2.** ***Робота з функціями (Functions) в терміналі:**
 
