@@ -248,6 +248,8 @@ _Словник базових англійських термінів_
 
 <br>
 
+<br>
+
 **2.2.** ***Робота з функціями (Functions) в терміналі:**
 
 &nbsp;&nbsp;&nbsp;- Створіть функцію students_report, що порядково буде виводити спочатку імена студентів Вашої команди, а потім роки їх народження.  
@@ -261,10 +263,28 @@ _Словник базових англійських термінів_
 <img src="17.png" width="730">  
 <img src="18.png" width="730">
 
+<br>
+
+<br>
+
 **2.3.** ***Робота з лапками (Quoting) в терміналі. Виведіть в командному рядку наступні речення:**
 
 &nbsp;&nbsp;&nbsp;- “We create such variables as $var_name1, $var_name2, $var_name3, which stored our names Name1, Name2, Name3” (у реченні спочатку виводимо назви змінних, а потім їх вміст).    
+
+<img src="19.png" width="730">
+
 &nbsp;&nbsp;&nbsp;- “We create such Aliases as mycal1, mycal2, mycal3, which can show our calendars: Calendar1, Calendar2, Calendar3”  (у реченні спочатку виводимо назву команди-псевдонімів, потім вивід цих команд). 
+
+<img src="20.png" width="730">  
+<img src="21.png" width="730">  
+<img src="22.png" width="730">   
+<img src="23.png" width="730">  
+<img src="24.png" width="730">  
+<img src="25.png" width="730">
+
+<br>
+
+<br>
 
 **2.4.** ***Робота з інструкціями керування (Control Statements) в терміналі:***
 
