@@ -238,7 +238,7 @@ _Словник базових англійських термінів_
 &nbsp;&nbsp;- Створіть псевдоніми mycal1, mycal2, mycal3 для команди cal для автоматичного виведення календарю вашого року народження. 
 
 <img src="3.png" width="730">  
-<img src="4.png" width="730">  
+<img src="4_.png" width="730">  
 <img src="5.png" width="730">  
 <img src="6.png" width="730">  
 <img src="7.png" width="730">  
