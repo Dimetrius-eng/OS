@@ -304,6 +304,8 @@ _Словник базових англійських термінів_
 
 <br>
 
+<br>
+
 2. Логічний ланцюжок (через &&):
 
 <img src="27.png" width="730">  
@@ -313,6 +315,24 @@ _Словник базових англійських термінів_
 <img src="8.png" width="730">  
 <img src="9.png" width="730">  
 <img src="10.png" width="730">
+
+<br>
+
+<br>
+
+3. Використання echo -e для перенесення рядків:
+
+<img src="28.png" width="730">  
+<img src="5.png" width="730">   
+<img src="6.png" width="730">  
+<img src="7.png" width="730">  
+<img src="8.png" width="730">  
+<img src="9.png" width="730">  
+<img src="10.png" width="730">
+
+<br>
+
+<br>
 
 **2.5. Робота з командами довідки (Man Pages) в терміналі:**
 
