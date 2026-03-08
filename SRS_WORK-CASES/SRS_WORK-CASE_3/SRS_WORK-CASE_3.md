@@ -189,7 +189,7 @@
 
 <img src = "22.png" width = "600">
 
-Варто зробити те саме для: Пристрої -> Спільний буфер обміну -> Двонаправлений.
+Варто зробити те саме для: Пристрої -> Спільний буфер обміну -> Двонаправлений:
 
 <img src = "23.png" width = "600">
 
@@ -204,3 +204,25 @@
 Створений на робочому столі Ubuntu текстовий документ було переміщено до /media/sf_VM_Shared_Folder. Завдяки синхронізації файл миттєво став доступним у відповідній папці на основній ОС Windows 11.
 
 </blockquote>
+
+#### Словник англійських термінів
+
+| № | Слово | Пояснення |
+| :--- | :--- | :--- |
+| 1 | **Hypervisor** | Гіпервізор — програмне забезпечення (наприклад, VirtualBox), яке створює віртуальні машини та керує розподілом апаратних ресурсів між ними |
+| 2 | **Full Clone** | Повний клон — повністю незалежна копія віртуальної машини, яка не потребує наявності оригінального (базового) образу для своєї роботи |
+| 3 | **MAC Address** | MAC-адреса — унікальний фізичний ідентифікатор мережевого адаптера. При клонуванні ВМ його необхідно змінювати для уникнення мережевих конфліктів |
+| 4 | **Bridged Networking** | Мережевий міст — режим підключення, при якому віртуальна машина працює як повноцінний фізичний пристрій у вашій локальній мережі, отримуючи IP-адресу безпосередньо від домашнього роутера |
+| 5 | **NAT (Network Address Translation)** | Трансляція мережевих адрес — стандартний режим мережі, де віртуальна машина отримує доступ до Інтернету, приховуючись за IP-адресою основної (хостової) ОС |
+| 6 | **Host OS / Guest OS** | Хостова та Гостьова ОС — основна операційна система (наприклад, Windows 11 на вашому ПК) та віртуалізована система (наприклад, Ubuntu у VirtualBox) відповідно |
+| 7 | **Shared Folder** | Спільна папка — спеціально змонтована директорія, яка забезпечує миттєвий двосторонній обмін файлами між хостовою та гостьовою операційними системами |
+| 8 | **Guest Additions** | Гостьові доповнення — спеціальний пакет драйверів та системних утиліт від VirtualBox, що розширює можливості ВМ (забезпечує спільний буфер обміну, роботу спільних папок тощо) |
+| 9 | **Routing Table** | Таблиця маршрутизації — системний набір правил (виводиться командою `ip route`), який вказує комп'ютеру шляхи для передачі мережевих пакетів до інших пристроїв |
+| 10 | **Appliance Export** | Експорт конфігурації — процес пакування віртуальної машини з усіма її віртуальними дисками та налаштуваннями в єдиний архів (зазвичай формату .ova) для перенесення на інший ПК |
+
+#### Conclusions:
+
+&nbsp;&nbsp;&nbsp;During the execution of Work-case 3, I successfully gained practical skills in managing virtual environments using Oracle VirtualBox. I learned how to create an independent Full Clone of a virtual machine and ensure its correct operation by generating a unique MAC address for the virtual network adapter. Additionally, I mastered the process of exporting a VM into an OVA/OVF format for deployment on other hardware.  
+&nbsp;&nbsp;&nbsp;A significant part of the work was dedicated to understanding and configuring virtual network types. I successfully switched the VM adapters to Bridged mode, allowing the original OS and its clone to receive local IP addresses and interact seamlessly. Using built-in Linux CLI tools (`ip a`, `ip route`, `ping`, and `nc`), I verified the internet connection and established a local text communication channel between the two virtual systems.   
+&nbsp;&nbsp;&nbsp;Finally, I organized a reliable two-way file exchange channel between the Host OS (Windows 11) and the Guest OS (Ubuntu). Due to standard Drag-and-Drop limitations caused by the Wayland display server, I successfully implemented an alternative and more robust solution by configuring Shared Folders via VirtualBox Guest Additions. This approach provided stable, real-time file synchronization and demonstrated problem-solving skills in system administration.
+
