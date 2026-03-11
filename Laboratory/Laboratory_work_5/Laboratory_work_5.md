@@ -334,13 +334,13 @@ FHS гарантує, що незалежно від того, який дист
 
 **5.** ****У якому з наведених нижче прикладів відбувається переміщення файлу? його перейменування? одночасно обидві дії?**
 
-<span>-mv /work/tech/comp.png. /Desktop</span>  
+<span>- `mv /work/tech/comp.png. /Desktop`</span>  
 Тільки переміщення. Файл переноситься з каталогу /work/tech/ до каталогу /Desktop. Оскільки нове ім'я файлу не вказано, він зберігає свою оригінальну назву comp.png.
 
-<span>-mv /work/tech/comp.png. /work/tech/my_car.png</span>   
+<span>- `mv /work/tech/comp.png. /work/tech/my_car.png`</span>   
 Тільки перейменування. Шлях до файлу (його місцезнаходження /work/tech/) залишається тим самим, змінюється лише його ім'я з comp.png на my_car.png.
 
-<span>-mv /work/tech/comp.png. /Desktop/computer.png</span>  
+<span>- `mv /work/tech/comp.png. /Desktop/computer.png`</span>  
 Одночасно переміщення та перейменування. Файл змінює своє місцезнаходження (переміщується у /Desktop/) і при цьому отримує нову назву (computer.png).
 
 ## Conclusions:
