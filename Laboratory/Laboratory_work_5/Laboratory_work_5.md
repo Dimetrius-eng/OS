@@ -345,4 +345,7 @@ FHS гарантує, що незалежно від того, який дист
 
 ## Conclusions:
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;During this laboratory work, I successfully gained practical skills in working with the Linux command-line shell (Bash). I learned how to efficiently navigate the filesystem using commands such as cd, ls, and pwd, and clearly understood the difference between absolute and relative paths.  
+&nbsp;&nbsp;&nbsp;Furthermore, I practiced essential file and directory management operations. I successfully created, copied, moved, renamed, and deleted files and directories using commands like mkdir, touch, cp, mv, and rm. I also learned how to use wildcards (glob characters) for flexible file searching and pattern matching, and how to redirect text output directly into files using the echo command. Overall, this lab provided a strong foundation for managing a Linux OS without a graphical user interface.
+
+
