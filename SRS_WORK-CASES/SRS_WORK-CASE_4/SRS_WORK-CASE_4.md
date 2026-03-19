@@ -144,7 +144,7 @@
 
 <img src = "15.png" width = "800">
 
-Наразі Go не буде працювати коректно, ми все ще будемо отримувати повідомлення про помилку, ввівши `go version`. Це стається через те, що наш цільовий Go лежить не на нашому виконуваному шляху. Щоб зробити все правильно, потрібно знати оболонку (Shell). Для bash я я спочатку відкрию вже встановлений VS code:
+Наразі Go не буде працювати коректно, ми все ще будемо отримувати повідомлення про помилку, ввівши `go version`. Це стається через те, що наш цільовий Go лежить не на нашому виконуваному шляху. Щоб зробити все правильно, потрібно знати оболонку (Shell). Для bash я спочатку відкрию вже встановлений VS code:
 
 <img src = "16.png" width = "800">
 
@@ -179,12 +179,33 @@
 - **Ubuntu Software (App Center):** Вбудований магазин додатків в Ubuntu.  
 Щоб встановити, потрібно відкрити програму, ввести назву в рядок пошуку (наприклад, Visual Studio Code або Unity Hub), натиснути кнопку "Install" (Встановити) та ввести пароль адміністратора. Магазин автоматично завантажить програму (часто у форматі Snap) та встановить її.
 
-<img src = "22.png" width = "800">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src = "22.png" width = "800">
 
 - **Synaptic Package Manager:** Більш просунутий графічний інтерфейс для APT.  
 Дозволяє зручно ставити галочки напроти сотень бібліотек або системних утиліт, бачити всі залежності перед встановленням і застосовувати зміни натисканням однієї кнопки "Apply".
 
 - **GDEBI:** Графічна міні-утиліта для встановлення окремо завантажених '.deb' файлів. Якщо ви завантажили пакет через браузер (наприклад, Google Chrome), подвійний клік по ньому відкриє вікно встановлення, де достатньо натиснути "Встановити пакет".
 
+#### Словник англійських термінів
+
+| № | Слово | Пояснення |
+| :--- | :--- | :--- |
+| 1 | **Package** | Пакет - стиснутий архів, що містить скомпільовану програму, конфігурації та список залежностей |
+| 2 | **Package Manager** | Менеджер пакетів - системна утиліта (наприклад, APT, DNF), яка автоматизує процеси встановлення, оновлення та видалення пакетів |
+| 3 | **Repository (Repo)** | Репозиторій (сховище) - віддалений сервер або локальна директорія, де зберігаються і звідки завантажуються пакети для певного дистрибутиву |
+| 4 | **Dependency** | Залежність - інша програма або бібліотека, яка обов'язково потрібна для правильної роботи пакета, що встановлюється |
+| 5 | **Install** | Встановити - команда для завантаження та встановлення нового програмного забезпечення (напр., apt install) |
+| 6 | **Remove / Uninstall** | Видалити - команда для видалення програми із системи (напр., apt remove) |
+| 7 | **Purge** | Очистити (повне видалення) - видалення програми разом з усіма її індивідуальними конфігураційними файлами налаштувань |
+| 8 | **Update** | Оновити (список) - оновлення локальної бази даних пакетів інформацією про нові версії з репозиторіїв (напр., apt update) |
+| 9 | **Upgrade** | Оновити (програми) - процес фактичного завантаження та встановлення новіших версій вже встановлених програм (напр., apt upgrade) |
+| 10 | **GUI (Graphical User Interface)** | Графічний інтерфейс користувача - візуальне середовище взаємодії (вікна, кнопки), на противагу текстовому терміналу (CLI) |
+| 11 | **Software Center / App Center** | Центр програмного забезпечення - графічний магазин додатків для зручного пошуку та встановлення програм за допомогою миші |
+| 12 | **Environment** | Середовище	- набір інструментів, компіляторів та бібліотек, необхідних для розробки певною мовою програмування |
+
 #### Conclusions:
+
+&nbsp;&nbsp;&nbsp;In this work-case, I successfully learned the fundamental concepts of software management in a Linux operating system. I explored the definitions of software packages, dependencies, and repositories, and reviewed the most popular package managers used in different Linux distributions.  
+&nbsp;&nbsp;&nbsp;Practically, I mastered the core commands of the APT package manager via the command-line interface. I learned how to search for, install, update, and remove software packages efficiently. During the practical part, I successfully installed the VLC media player and set up the necessary programming environment VS code, particularly for Go. Additionally, I learned how to install applications using graphical Software Centers. Overall, this task provided me with essential skills for system administration and software configuration in Linux.
+
 
