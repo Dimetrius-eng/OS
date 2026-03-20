@@ -426,7 +426,7 @@ sudo apt install grep
 | `sort < file1_unsorted > file2_sorted` | Команда `sort` бере вхідні дані з файлу file1_unsorted, сортує рядки за алфавітом і зберігає відсортований результат у файл file2_sorted | Одночасне перенаправлення введення (`stdin`) з файлу (`<`) та виведення (`stdout`) у файл (`>`) |
 | `find -name '*.txt' > file.txt 2> /dev/null` | Шукає всі файли .txt. Список знайдених файлів зберігає у file.txt. Якщо виникають помилки доступу (Permission denied), вони приховуються (відправляються в "чорну діру") | Перенаправлення `stdout` у файл (`>`) та перенаправлення потоку помилок (`stderr`) у /dev/null (`2>`) |
 | `cat file1_unsorted \| sort > file2_sorted` | Читає невідсортований файл і передає його по каналу команді `sort`. Відсортований результат зберігається у новий файл (результат аналогічний команді вище) | Канал (`\|`) передає stdout на `stdin` наступної команди. Потім `stdout` перенаправляється у файл (`>`) |
-| `cat myfile \| grep student \| wc -l` | Читає файл, передає текст фільтру grep (який залишає лише рядки зі словом "student"). Потім ці рядки передаються утиліті `wc -l`, яка просто рахує їхню кількість | Використовується два канали (`\|`) для послідовної передачі `stdout` однієї команди на `stdin` іншої |
+| `cat myfile \| grep student \| wc -l` | Читає файл, передає текст фільтру `grep` (який залишає лише рядки зі словом "student"). Потім ці рядки передаються утиліті `wc -l`, яка просто рахує їхню кількість | Використовується два канали (`\|`) для послідовної передачі `stdout` однієї команди на `stdin` іншої |
 
 ### Контрольні запитання
 
@@ -440,7 +440,7 @@ sudo apt install grep
 
 **3.** ***Порівняйте алгоритми стискання, що використовуються в командах (програмах), використовуваних в Linux. Які з алгоритмів можна вважати найшвидшим та найефективнішим?**
 
-Найшвидшим та найбільш ефективним з точки зору використання системних ресурсів є алгоритм "DEFLATE", який використовується утилітою gzip. Найефективнішим за ступенем стиснення (створює найменші файли) є алгоритм LZMA2 в утиліті `xz`, проте він працює значно повільніше і потребує більше пам'яті. Алгоритм "Burrows-Wheeler" в утиліті `bzip2` є проміжним варіантом між ними.
+Найшвидшим та найбільш ефективним з точки зору використання системних ресурсів є алгоритм "DEFLATE", який використовується утилітою `gzip`. Найефективнішим за ступенем стиснення (створює найменші файли) є алгоритм LZMA2 в утиліті `xz`, проте він працює значно повільніше і потребує більше пам'яті. Алгоритм "Burrows-Wheeler" в утиліті `bzip2` є проміжним варіантом між ними.
 
 **4.** ***Опишіть програмні засоби для стискання та архівування, що можуть бути використані у вашому мобільному телефоні.**
 
@@ -463,9 +463,9 @@ sudo apt install grep
 
 During this laboratory work, I gained practical skills in using the Bash command shell within the Linux operating system environment.  
 
-I familiarized myself with the principles of creating and managing archives using the tar utility. I also learned how to use popular data compression tools such as gzip, bzip2, and xz, and understood the differences in their efficiency. Additionally, I practiced using basic commands for viewing, filtering, and processing text files (cat, less, more, head, tail, grep).   
+I familiarized myself with the principles of creating and managing archives using the `tar` utility. I also learned how to use popular data compression tools such as `gzip`, `bzip2`, and `xz`, and understood the differences in their efficiency. Additionally, I practiced using basic commands for viewing, filtering, and processing text files (`cat`, `less`, `more`, `head`, `tail`, `grep`).   
 
-Furthermore, I successfully consolidated the principles of data stream management. I learned how to redirect standard output and errors into files (using the >, >>, and 2> operators) and how to link multiple programs into pipelines using pipes (|). This enables the automation and significant optimization of information processing directly within the terminal.
+Furthermore, I successfully consolidated the principles of data stream management. I learned how to redirect standard output and errors into files (using the `>`, `>>`, and `2>` operators) and how to link multiple programs into pipelines using pipes (`|`). This enables the automation and significant optimization of information processing directly within the terminal.
 
 
 
