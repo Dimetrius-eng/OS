@@ -306,7 +306,7 @@ sudo apt install grep
 
 </blockquote>
 
-#### 2. Опрацюйте всі приклади команд, що представлені у лабораторних роботах курсу NDG Linux Essentials - Lab 9: Archiving and Compression та Lab 10: Working With Text. Створіть таблицю для опису цих команд
+#### 2. Опрацюйте всі приклади команд, що представлені у лабораторних роботах курсу NDG Linux Essentials - Lab 9: Archiving and Compression та Lab 10: Working With Text. Створіть таблицю для опису цих команд.
 
 | Назва команди | ЇЇ призначення та функціональність |
 | :--- | :--- |
