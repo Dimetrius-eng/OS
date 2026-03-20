@@ -461,9 +461,11 @@ sudo apt install grep
 
 ## Conclusions:
 
-&nbsp;&nbsp;&nbsp;During this laboratory work, I gained practical skills in using the Bash command shell within the Linux operating system environment.  
-&nbsp;&nbsp;&nbsp;I familiarized myself with the principles of creating and managing archives using the tar utility. I also learned how to use popular data compression tools such as gzip, bzip2, and xz, and understood the differences in their efficiency. Additionally, I practiced using basic commands for viewing, filtering, and processing text files (cat, less, more, head, tail, grep).  
-&nbsp;&nbsp;&nbsp;Furthermore, I successfully consolidated the principles of data stream management. I learned how to redirect standard output and errors into files (using the >, >>, and 2> operators) and how to link multiple programs into pipelines using pipes (|). This enables the automation and significant optimization of information processing directly within the terminal.
+During this laboratory work, I gained practical skills in using the Bash command shell within the Linux operating system environment.  
+
+I familiarized myself with the principles of creating and managing archives using the tar utility. I also learned how to use popular data compression tools such as gzip, bzip2, and xz, and understood the differences in their efficiency. Additionally, I practiced using basic commands for viewing, filtering, and processing text files (cat, less, more, head, tail, grep).   
+
+Furthermore, I successfully consolidated the principles of data stream management. I learned how to redirect standard output and errors into files (using the >, >>, and 2> operators) and how to link multiple programs into pipelines using pipes (|). This enables the automation and significant optimization of information processing directly within the terminal.
 
 
 
