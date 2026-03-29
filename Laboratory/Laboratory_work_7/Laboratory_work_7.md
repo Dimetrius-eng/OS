@@ -175,6 +175,8 @@
 
 <span>- сценарій має виводити привітання до поточного користувача вказуючи поточну дату та інформацію про поточну систему;</span>
 
+<blockquote>
+  
 Створимо та відкриємо файл скрипта у редакторі nano:
 
 <img width="451" height="56" alt="1" src="https://github.com/user-attachments/assets/cf0cd6e6-70ae-45b2-a13b-9476f6535b7c" />
@@ -187,8 +189,12 @@
 
 <img width="814" height="189" alt="3" src="https://github.com/user-attachments/assets/c5477bc5-4c8e-4714-8e14-464dd3d9b939" />
 
+</blockquote>
+  
 <span>- *сценарій має виводити інформацію про апаратну конфігурацію поточної системи (використовуйте команди розглянуті в Lab 12: Understanding Computer Hardware);</span>
 
+<blockquote>
+  
 Створимо новий файл, напишемо код для збору даних про «залізо», після чого зберігаємо файл: 
 
 <img width="818" height="528" alt="1_" src="https://github.com/user-attachments/assets/f0e060f1-a7fd-43f5-97e6-1e57d8c6e575" />
@@ -197,8 +203,12 @@
 
 <img width="813" height="532" alt="2_" src="https://github.com/user-attachments/assets/7d2fee3d-cff4-4a70-a199-d8ae66181f4f" />
 
+</blockquote>
+  
 <span>- **наведіть свій приклад скриптового сценарію.</span>
 
+<blockquote>
+  
 Створимо файл:
 
 <img width="579" height="68" alt="1__" src="https://github.com/user-attachments/assets/6b466239-ea97-427f-9c95-42e1a71dd075" />
@@ -207,21 +217,34 @@
 
 <img width="817" height="530" alt="2__" src="https://github.com/user-attachments/assets/97337fa4-c42f-4c79-9b76-f4a18a8d88af" />
 
-Зроблю  скрипт виконуваним. Спочатку створіть тестову папку, щоб було що архівувати. Тепер запущу скрипт, передавши йому цю папку як аргумент. Перевірю командою `ls`, що скрипт відпрацював і створив файл архіву:
+Зроблю  скрипт виконуваним. Спочатку створю тестову папку, щоб було що архівувати. Тепер запущу скрипт, передавши йому цю папку як аргумент. Перевірю командою `ls`, що скрипт відпрацював і створив файл архіву:
 
 <img width="818" height="300" alt="3__" src="https://github.com/user-attachments/assets/39ec7d00-f715-4964-9c3f-c17e9b44cc7f" />
 
+</blockquote>
+  
 ### Контрольні запитання
 
 **1. В чому відмінність між командами arch та lscpu?**
 
+Команда `arch` виводить лише коротку інформацію про базову архітектуру процесора (наприклад, x86_64), тоді як `lscpu` збирає та відображає надзвичайно детальну статистику про центральний процесор, включаючи кількість ядер, потоків, сокетів, об'єм кеш-пам'яті, виробника та підтримувані технології.
+
 **2. Якою командою можна отримати інформацію про стан використання RAM поточною системою?**
+
+Для отримання інформації про стан використання оперативної пам'яті (RAM) поточною системою використовується команда `free`, яку найчастіше застосовують із параметром `-h` (`free -h`) для зручного читання обсягів у мегабайтах або гігабайтах, а для динамічного моніторингу в реальному часі можна скористатися утилітами `top` або `htop`.
 
 **3.** ***Яким чином у скриптах можна опрацьовувати змінні та створювати розгалужені та циклічні сценарії?**
 
+Змінні у скриптах створюються шляхом прямого присвоєння значення без пробілів (наприклад, `VAR="текст"`), а викликаються через додавання знака долара (`$VAR`), тоді як розгалуження реалізується через умовні конструкції `if`...`then`...`elif`...`else`...`fi` або `case`, а циклічні сценарії створюються за допомогою операторів `for`, `while` та `until` для багаторазового виконання блоків коду.
+
 **4.** ***Які команди для перегляду стану підключення периферійних пристроїв можна використати в терміналі?**
+
+Для перегляду стану підключення периферійних пристроїв у терміналі використовують такі команди, як `lsusb` для відображення пристроїв на шині USB, `lspci` для пристроїв на шині PCI, `lsblk` для перегляду підключених блокових пристроїв (наприклад, дисків та флешок), а також `dmesg` для аналізу повідомлень ядра під час фізичного підключення нового обладнання.
 
 **5.** ****Які можливості застунку gparted?** 
 
+Застосунок GParted — це потужна графічна програма, яка дозволяє зручно керувати дисковими розділами, створювати нові таблиці розділів (MBR або GPT), а також форматувати, видаляти, переміщувати та змінювати розміри існуючих логічних томів без втрати даних із підтримкою широкого спектра файлових систем.
 
+## Conclusions:
 
+During this laboratory work, I successfully acquired practical skills in Bash shell scripting and analyzing hardware configurations within the Linux operating system. I learned the fundamental principles of creating, editing, and executing shell scripts, which allowed me to automate routine tasks using variables, arguments, and conditional statements. Furthermore, I gained hands-on experience using terminal commands (such as `lscpu`, `free`, `lsblk`, and `uname`) to extract detailed information about system components, including the CPU, RAM, and storage drives. Ultimately, this work deepened my understanding of how to interact with both the operating system and the hardware directly through the command-line interface, which is a crucial skill for system administration and automation.
