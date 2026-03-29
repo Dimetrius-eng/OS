@@ -100,7 +100,7 @@
   
 Під час виконання роботи я буду використовувати свою, встановлену під час виконання Work-case 2, операційну систему сімейства Linux:
 
-<img src = "1_.png" width = "800">
+<img src = "_.png" width = "800">
 
 </blockquote>
 
@@ -175,9 +175,27 @@
 
 <span>- сценарій має виводити привітання до поточного користувача вказуючи поточну дату та інформацію про поточну систему;</span>
 
+Створимо та відкриємо файл скрипта у редакторі nano:
+
+<img width="451" height="56" alt="1" src="https://github.com/user-attachments/assets/cf0cd6e6-70ae-45b2-a13b-9476f6535b7c" />
+
+<img width="796" height="283" alt="2" src="https://github.com/user-attachments/assets/3d684a0a-6bd7-44a4-a6c3-3d0610c01693" />
+
+<img width="814" height="189" alt="3" src="https://github.com/user-attachments/assets/c5477bc5-4c8e-4714-8e14-464dd3d9b939" />
+
 <span>- *сценарій має виводити інформацію про апаратну конфігурацію поточної системи (використовуйте команди розглянуті в Lab 12: Understanding Computer Hardware);</span>
 
+<img width="818" height="528" alt="1_" src="https://github.com/user-attachments/assets/f0e060f1-a7fd-43f5-97e6-1e57d8c6e575" />
+
+<img width="813" height="532" alt="2_" src="https://github.com/user-attachments/assets/7d2fee3d-cff4-4a70-a199-d8ae66181f4f" />
+
 <span>- **наведіть свій приклад скриптового сценарію.</span>
+
+<img width="579" height="68" alt="1__" src="https://github.com/user-attachments/assets/6b466239-ea97-427f-9c95-42e1a71dd075" />
+
+<img width="817" height="530" alt="2__" src="https://github.com/user-attachments/assets/97337fa4-c42f-4c79-9b76-f4a18a8d88af" />
+
+<img width="818" height="300" alt="3__" src="https://github.com/user-attachments/assets/39ec7d00-f715-4964-9c3f-c17e9b44cc7f" />
 
 ### Контрольні запитання
 
