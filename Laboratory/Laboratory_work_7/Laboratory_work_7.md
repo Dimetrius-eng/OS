@@ -179,21 +179,35 @@
 
 <img width="451" height="56" alt="1" src="https://github.com/user-attachments/assets/cf0cd6e6-70ae-45b2-a13b-9476f6535b7c" />
 
+Напишемо код скрипта. Збережемо файл та вийдемо з редактора (Ctrl + O для збереження, Enter для підтвердження ім'я файлу, Ctrl + X для виходу з nano):
+
 <img width="796" height="283" alt="2" src="https://github.com/user-attachments/assets/3d684a0a-6bd7-44a4-a6c3-3d0610c01693" />
+
+Надаємо скрипту права на виконання та запускаємо скрипт, після чого перевіряємо результат:
 
 <img width="814" height="189" alt="3" src="https://github.com/user-attachments/assets/c5477bc5-4c8e-4714-8e14-464dd3d9b939" />
 
 <span>- *сценарій має виводити інформацію про апаратну конфігурацію поточної системи (використовуйте команди розглянуті в Lab 12: Understanding Computer Hardware);</span>
 
+Створимо новий файл, напишемо код для збору даних про «залізо», після чого зберігаємо файл: 
+
 <img width="818" height="528" alt="1_" src="https://github.com/user-attachments/assets/f0e060f1-a7fd-43f5-97e6-1e57d8c6e575" />
+
+Зробимо файл виконуваним та запускаємо його:
 
 <img width="813" height="532" alt="2_" src="https://github.com/user-attachments/assets/7d2fee3d-cff4-4a70-a199-d8ae66181f4f" />
 
 <span>- **наведіть свій приклад скриптового сценарію.</span>
 
+Створимо файл:
+
 <img width="579" height="68" alt="1__" src="https://github.com/user-attachments/assets/6b466239-ea97-427f-9c95-42e1a71dd075" />
 
+Напишу код мого скрипта, зберігаю файл:
+
 <img width="817" height="530" alt="2__" src="https://github.com/user-attachments/assets/97337fa4-c42f-4c79-9b76-f4a18a8d88af" />
+
+Зроблю  скрипт виконуваним. Спочатку створіть тестову папку, щоб було що архівувати. Тепер запущу скрипт, передавши йому цю папку як аргумент. Перевірю командою `ls`, що скрипт відпрацював і створив файл архіву:
 
 <img width="818" height="300" alt="3__" src="https://github.com/user-attachments/assets/39ec7d00-f715-4964-9c3f-c17e9b44cc7f" />
 
