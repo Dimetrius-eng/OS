@@ -78,7 +78,7 @@
   
 Під час виконання роботи я буду використовувати свою, встановлену під час виконання Work-case 2, операційну систему сімейства Linux:
 
-<img src = "_.png" width = "800">
+<img width="1920" height="955" alt="зображення" src="https://github.com/user-attachments/assets/5404b044-0153-4a91-8560-6e9980e3dc27" />
 
 </blockquote>
 
