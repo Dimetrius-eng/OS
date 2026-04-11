@@ -122,6 +122,8 @@ _Для виходу з користувача потрібно ввести `ex
 
 <img width="470" height="68" alt="15" src="https://github.com/user-attachments/assets/0ed88b88-3353-4825-b78d-d30089581f74" />
 
+В результаті отримаю системне повідомлення по типу "This account is currently not available". Це підтверджує, що політика безпеки (призначення /usr/sbin/nologin замість bash) працює коректно, і ці користувачі не можуть виконувати команди в системі.
+
 </blockquote>
 
 
