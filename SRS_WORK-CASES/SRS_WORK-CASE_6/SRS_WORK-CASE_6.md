@@ -126,6 +126,21 @@ _Для виходу з користувача потрібно ввести `ex
 
 </blockquote>
 
+#### Словник англійських термінів
+
+| № | Слово | Пояснення |
+| :--- | :--- | :--- |
+| 1 | **Shell (Command Interpreter)** | Командна оболонка (інтерпретатор) - програма, яка приймає команди від користувача та передає їх операційній системі для виконання |
+| 2 | **User account** | Обліковий запис користувача - сукупність даних (логін, пароль, ідентифікатор), що визначає користувача в системі та його права доступу | 
+| 3 | **User Group** | Група користувачів - логічне об'єднання кількох облікових записів для зручного та масового керування їхніми спільними правами та дозволами |
+| 4 | **Superuser (root)** | Суперкористувач - спеціальний системний акаунт в Linux, який має абсолютні та необмежені права доступу до всіх файлів та налаштувань |
+| 5 | **bash (Bourne Again SHell)** | Стандартна командна оболонка - класичний та найпоширеніший інтерпретатор командного рядка, встановлений за замовчуванням у більшості систем Linux |
+| 6 | **zsh / fish** | Альтернативні оболонки - сучасні командні інтерпретатори з розширеними можливостями автодоповнення, підсвічування синтаксису та гнучкої кастомізації |
+| 7 | **nologin (/usr/sbin/nologin)** | Заборона оболонки - спеціальна системна команда, яка призначається замість інтерпретатора для користувачів, яким заборонено доступ до терміналу |
+
+#### Conclusions:
+
+In this laboratory work, I practically explored the mechanisms of user, group, and shell management in the Linux operating system. I successfully created multiple user groups based on organizational roles and assigned specific users to them. Furthermore, I installed alternative command-line interpreters, such as zsh and fish, and configured default shells for different user categories according to their tasks. I also implemented basic security policies by denying terminal access to certain groups using the nologin shell. This practice significantly improved my system administration skills and deepened my understanding of Linux security and access control principles.
 
 
 
