@@ -179,7 +179,11 @@
 
 <img width="787" height="339" alt="3" src="https://github.com/user-attachments/assets/8f7ffe96-1839-453d-affa-c13168f29ded" />
 
+<br>
+
 <img width="800" height="323" alt="4" src="https://github.com/user-attachments/assets/fcb32e82-6bea-4bb3-a166-1049428f8231" />
+
+<br>
 
 <img width="808" height="320" alt="5" src="https://github.com/user-attachments/assets/5fe2fcdd-6e89-4a34-8b5d-1920f1c5c257" />
 
@@ -206,9 +210,15 @@
 
 <img width="807" height="520" alt="6" src="https://github.com/user-attachments/assets/abf1aed2-1780-44be-a093-4f9fbcfd6c6b" />
 
+<br>
+
 <img width="801" height="495" alt="7" src="https://github.com/user-attachments/assets/b985f46a-c9bc-46e0-8f2d-eee887748dec" />
 
+<br>
+
 <img width="818" height="495" alt="8" src="https://github.com/user-attachments/assets/649970c8-ddfb-41ea-9c2d-d95dded9c38c" />
+
+<br>
 
 <img width="801" height="141" alt="9" src="https://github.com/user-attachments/assets/e865b156-5a6f-4fa8-a345-a780aa6697b6" />
 
@@ -226,7 +236,11 @@ _Примітка: у сучасних дистрибутивах Linux вона
 
 <img width="805" height="379" alt="10" src="https://github.com/user-attachments/assets/56b60b2d-0029-4136-941e-88498dca59f6" />
 
+<br>
+
 <img width="811" height="377" alt="11" src="https://github.com/user-attachments/assets/71a30798-3d81-46ad-a879-8046f9bd9cd0" />
+
+<br>
 
 <img width="810" height="529" alt="12" src="https://github.com/user-attachments/assets/a31921f7-dbca-4c57-86b7-c9ec624e3ce0" />
 
